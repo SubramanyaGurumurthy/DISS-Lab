@@ -2,7 +2,7 @@
 
 ## Task
 
-This repository contains the solution to the challenge of the *Design and Implementation of Software Systems* course, where the goal is to navigate a robot through an undisclosed maze and find a target wall of a specified color. The challenge is designed to test the student's ability to design an algorithm that makes the robot explore the maze, accurately detect colors, and make strategic decisions.
+This repository contains the solution to the challenge of the *Design and Implementation of Software Systems* course, where the goal is to navigate a robot through an undisclosed maze and find a target wall of a specified color. The challenge is designed to test the student's ability to design an algorithm that makes the robot explore the maze, accurately detect colors, and make strategic decisions. The complete solution were programmed using Java programming language.
 
 ### Challenge Summary:
 
